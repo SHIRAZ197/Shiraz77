@@ -1,4 +1,3 @@
-شيراز77.#Shiraz77
-أحتاج إلى الدعم والمساعدة بسبب سرطان ابني.
+mkdir my-first-project
+cd my-first-project
 
-88135997كود.  
